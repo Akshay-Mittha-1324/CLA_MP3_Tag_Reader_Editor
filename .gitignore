@@ -1,0 +1,44 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Compiled Static libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Compiled Dynamic libraries
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Temp files created by the app
+song.mp3
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific folders if any
+.vscode/
+.idea/
