@@ -1,6 +1,6 @@
 # MP3 Tag Reader and Editor
 
-A Command-Line Interface (CLI) application written in C for reading and editing MP3 ID3v2 tags. 
+A Command-Line Argument (CLA) application written in C for reading and editing MP3 ID3v2 tags. 
 
 ## 📝 Overview
 This tool allows you to easily extract and display embedded metadata (like song title, artist, album, etc.) from `.mp3` files, as well as modify specific tags directly from the terminal without corrupting the underlying audio data.
