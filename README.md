@@ -9,11 +9,10 @@ This tool allows you to easily extract and display embedded metadata (like song 
 
 The demonstration video is located in the `src/` directory. You can watch it right here:
 
-<video src="./src/demo.mp4" width="800" controls>
+<video src="src/demo.mp4?raw=true" width="800" controls>
   Your browser does not support the video tag.
 </video>
 
-*(Note: If the video does not load, ensure `demo.mp4` is present in the `src/` folder of this repository)*
 
 ## ✨ Features
 - **View Mode (`-v`)**: Quickly read and display ID3 tags including Title, Artist, Album, Year, Genre, and Comments.
