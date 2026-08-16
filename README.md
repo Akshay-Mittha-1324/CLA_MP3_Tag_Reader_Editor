@@ -8,10 +8,7 @@ This tool allows you to easily extract and display embedded metadata (like song 
 ## 🎥 Video Demo
 
 The demonstration video is located in the `src/` directory. You can watch it right here:
-
-<video src="src/demo.mp4?raw=true" width="800" controls>
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/294c3ba3-b3ed-4392-a4c1-17d1d2cdf7ef
 
 
 ## ✨ Features
